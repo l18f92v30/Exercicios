@@ -13,7 +13,7 @@ cadeia nome
     leia(valorB)
     limpa()
     
-    escreva("Resultado da sua soma é: \n", soma(valorA, valorB))
+    escreva("Resultado da sua soma Ã©: \n", soma(valorA, valorB))
 
     escreva("\nSeu nome:\n")
     leia(nome)
